@@ -7,3 +7,4 @@ Pengerjaan Rules dan Konsep Turnament
 Konsep Turnament
 - Full Online
 - Adanya Lower Bracket dan Upper Bracket
+Commit 21
