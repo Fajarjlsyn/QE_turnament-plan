@@ -9,3 +9,4 @@ Konsep Turnament
 - Adanya Lower Bracket dan Upper Bracket
 Commit 21
 Commit 22
+Commit 23
