@@ -8,3 +8,4 @@ Konsep Turnament
 - Full Online
 - Adanya Lower Bracket dan Upper Bracket
 Commit 21
+Commit 22
